@@ -9,7 +9,7 @@
     }
   ],
   "dependencies": {
-    "com.fluid.state-machine": "0.0.0",
+    "com.fluid.state-machine": "2.0.0",
     "com.unity.ads": "2.0.8",
     "com.unity.analytics": "3.3.2",
     "com.unity.collab-proxy": "1.2.16",
